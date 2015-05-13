@@ -1,2 +1,2 @@
 # tictactoe
-Tic-tac-toe game for first GA project
+First GA project, creating a Tic-tac-toe game
