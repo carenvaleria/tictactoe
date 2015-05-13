@@ -1,0 +1,8 @@
+h1{
+	text-align: center;
+}
+.col-md-4{
+	border: 1px solid #000; 
+	position: absolute;
+	margin: auto;
+}
