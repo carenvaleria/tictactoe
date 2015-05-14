@@ -1,8 +1,19 @@
 h1{
 	text-align: center;
 }
-.col-md-4{
-	border: 1px solid #000; 
+p{
+  text-align: center;
+}
+body{
+ margin-top: 40px;
+ background-color: #485b6e;
+ color: #fff;
+ font-family: Helvetica;
+}
+.button{
+	border: 1px solid #fff; 
+  display: inline-block;
 	position: absolute;
 	margin: auto;
+  height: 300px;
 }
