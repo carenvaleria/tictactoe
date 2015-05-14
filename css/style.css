@@ -10,10 +10,22 @@ body{
  color: #fff;
  font-family: Helvetica;
 }
+#panel{
+    width: 435px;
+    padding: 10px;
+    margin: 0 auto;
+    /*background:;*/
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    }
+#playButton{
+	background-color: #E2E1D3;
+	color: black;
+}
 .button{
-	border: 1px solid #fff; 
-  display: inline-block;
-	position: absolute;
-	margin: auto;
-  height: 300px;
+border: 1px solid #fff; 
+display: inline-block;
+position: absolute;
+margin: auto;
+height: 250px;
 }
