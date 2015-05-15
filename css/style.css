@@ -1,9 +1,6 @@
 h1{
 	text-align: center;
 }
-p{
-  text-align: center;
-}
 body{
  margin-top: 40px;
  background-color: #485b6e;
@@ -14,16 +11,8 @@ img{
     width: 150px;
     height: auto;
 }
-#panel{
-    width: 435px;
-    padding: 10px;
-    margin: 0 auto;
-    border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20px;
-    }
-#playButton{
-	background-color: #E2E1D3;
-	color: black;
+p{
+  text-align: center;
 }
 .button{
     border: 1px solid #fff; 
@@ -31,4 +20,17 @@ img{
     position: absolute;
     margin: auto;
     height: 250px;
+}
+.col-md-4{
+    height: 250px;
+    width: 150px;
+}
+.reset{
+    text-align: center;
+}
+#player1{
+    text-align: center;
+}
+#player2{
+    text-align: center;
 }
