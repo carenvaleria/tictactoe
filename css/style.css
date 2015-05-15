@@ -14,6 +14,9 @@ img{
 p{
   text-align: center;
 }
+.button img{
+    display: none;
+}
 .button{
     border: 1px solid #fff; 
     display: inline-block;
@@ -27,6 +30,12 @@ p{
 }
 .reset{
     text-align: center;
+}
+.norge{
+    background-image: "norge.gif"
+}
+.sverige{
+    background-image: "sverige.svg"
 }
 #player1{
     text-align: center;
