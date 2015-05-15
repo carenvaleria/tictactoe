@@ -10,6 +10,10 @@ body{
  color: #fff;
  font-family: Helvetica;
 }
+img{
+    width: 150px;
+    height: auto;
+}
 #panel{
     width: 435px;
     padding: 10px;
@@ -22,9 +26,9 @@ body{
 	color: black;
 }
 .button{
-border: 1px solid #fff; 
-display: inline-block;
-position: absolute;
-margin: auto;
-height: 250px;
+    border: 1px solid #fff; 
+    display: inline-block;
+    position: absolute;
+    margin: auto;
+    height: 250px;
 }
